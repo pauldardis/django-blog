@@ -1,0 +1,4 @@
+*.swlite
+*.pyc
+.~c9
+__pycache__/
